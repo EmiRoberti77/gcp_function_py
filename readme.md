@@ -85,7 +85,7 @@ https://us-central1-emi-dev-env-2.cloudfunctions.net/run_report
 ### cURL Example
 
 ```bash
-curl https://us-central1-your-project-id.cloudfunctions.net/run_report
+curl https://us-central1-emi-dev-env-2.cloudfunctions.net/run_report
 ```
 
 ### Example JSON Response
